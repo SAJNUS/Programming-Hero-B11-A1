@@ -150,3 +150,30 @@ nav h1 {
     font-weight: 600;
     border: none;
 }
+
+
+/* Quote Section */
+.quote {
+    background-color: white;
+    border-radius: 16px;
+    padding: 48px 24px;
+    margin-bottom: 80px;
+}
+.quote img {
+    width: 64px;
+}
+.quote p {
+    font-size: 16px;
+    color: #0e0e0eCC;
+    margin-bottom: 12px;
+}
+.quote div h1 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+.quote div p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #0e0e0e99;
+}
