@@ -11,7 +11,7 @@ body {
   font-weight: 100;
   font-style: normal;
 }
-button {
+body button {
     font-family: "Fira Sans", sans-serif;
 }
 .btn {
@@ -106,4 +106,47 @@ nav h1 {
 .pillar .cart p {
     font-size: 16px;
     color: black;
+}
+
+
+/* Vision Section Style */
+.vision {
+    margin-bottom: 32px;
+}
+.vision h1 {
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.vision p {
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+.vision-cart-parent {
+    display: flex;
+    justify-content: space-between;
+}
+.vision-cart {
+    border: none;
+    border-radius: 16px;
+    padding: 32px;
+    width: 450px;
+}
+.vision-cart img {
+    margin-bottom: 24px;
+}
+.vision-cart h1 {
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+.vision-cart p {
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+.vision-cart button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+    border: none;
 }
