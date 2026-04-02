@@ -13,6 +13,7 @@ body {
 }
 body button {
     font-family: "Fira Sans", sans-serif;
+    cursor: pointer;
 }
 .btn {
     color: #006a50FF;
