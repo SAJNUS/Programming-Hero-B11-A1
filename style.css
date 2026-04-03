@@ -265,3 +265,39 @@ nav h1 {
     border-radius: 16px;
     font-size: 40px;
 }
+.donate-cart h1 {
+    margin: 0;
+}
+.donate-cart:nth-child(2) {
+    background-color: #c6e4d6FF;
+}
+.amount {
+    width: 1032px;
+    border: 1px solid #0e0e0e26;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px 0;
+    margin-bottom: 32px;
+}
+.amount h1 {
+    color: #0e0e0e4D;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+}
+.donate-button {
+    display: flex;
+    justify-content: center;
+}
+.donate button {
+    padding: 17px 34px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #006a50FF;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 80px;
+}
